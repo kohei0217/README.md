@@ -19,8 +19,6 @@ I'm a results-driven Project Management and Product Sales Manager with over 8 ye
 
 ## 💼 Skills
 
-## 💼 Skills
-
 [![Sales Strategy](https://img.shields.io/badge/Sales%20Strategy-Expert-brightgreen)](https://www.yoursalesstrategylink.com/)
 [![Market Research](https://img.shields.io/badge/Market%20Research-Advanced-brightgreen)](https://www.yourmarketresearchlink.com/)
 [![Content Marketing](https://img.shields.io/badge/Content%20Marketing-Proficient-brightgreen)](https://www.yourcontentmarketinglink.com/)
