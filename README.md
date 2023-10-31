@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Kohei 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/twitter/follow/yourtwitterhandle?label=Follow)](https://twitter.com/yourtwitterhandle)
@@ -30,8 +30,8 @@ I'm a results-driven Project Management and Product Sales Manager with over 8 ye
 - 🤖 Marketing Automation
 - 🎯 Brand Development
 - 🎓 Lead Generation
-- 📚 Proficient in SQL for data analysis
-- 🐍 Python programming for automation and data manipulation
+- 📚 Proficient in SQL for data analysis(https://github.com/yourusername/python-project)[![SQL Project](https://img.shields.io/badge/SQL-Project-blue)](https://github.com/yourusername/sql-project)
+- 🐍 Python programming for automation and data manipulation[![Python Project](https://img.shields.io/badge/Python-Project-brightgreen)]
 - 📈 Google Analytics Certified - [Google Analytics Certificate](https://skillshop.credential.net/0fad1f9c-986a-4fed-90bb-cc47fd0810a5)
 - 📚 Certified Dataiku Professional - [Dataiku Certificate](https://verify.skilljar.com/c/9cdddtevd5bo)
 
