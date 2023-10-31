@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/yourtwitterhandle?label=Follow)](https://twitter.com/yourtwitterhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://www.yourportfolio.com)
 
-I'm a seasoned sales and marketing professional with 8 years of experience in the industry. My passion lies in creating and implementing effective strategies to drive revenue growth and enhance brand visibility.
+I'm a seasoned sales and marketing professional with 8 years of experience in the industry. My passion lies in creating and implementing effective strategies to drive revenue growth and enhance brand visibility. I specialize in leveraging my skills in SQL, Python, and Google Analytics to make data-driven decisions and optimize marketing campaigns.
 
 ## 🚀 About Me
 
@@ -25,6 +25,9 @@ I'm a seasoned sales and marketing professional with 8 years of experience in th
 - 🤖 Marketing Automation
 - 🎯 Brand Development
 - 🎓 Lead Generation
+- 📚 Proficient in SQL for data analysis
+- 🐍 Python programming for automation and data manipulation
+- 📈 Google Analytics for tracking and optimizing online campaigns
 
 ## 📜 Certifications
 
