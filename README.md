@@ -19,19 +19,20 @@ I'm a results-driven Project Management and Product Sales Manager with over 8 ye
 
 ## 💼 Skills
 
-- 💰 Sales Strategy Development
-- 📈 Market Research & Analysis
-- 🤝 Relationship Building
-- 📢 Content Marketing
-- 🌐 Digital Marketing
-- 📊 Data Analytics
-- 🤖 Marketing Automation
-- 🎯 Brand Development
-- 🎓 Lead Generation
-- 📚 Proficient in SQL for data analysis
-- 🐍 Python programming for automation and data manipulation
-- 📈 Google Analytics Certified - [Google Analytics Certificate](https://skillshop.credential.net/0fad1f9c-986a-4fed-90bb-cc47fd0810a5)
-- 📚 Certified Dataiku Professional - [Dataiku Certificate](https://verify.skilljar.com/c/9cdddtevd5bo)
+## 💼 Skills
+
+[![Sales Strategy](https://img.shields.io/badge/Sales%20Strategy-Expert-brightgreen)](https://www.yoursalesstrategylink.com/)
+[![Market Research](https://img.shields.io/badge/Market%20Research-Advanced-brightgreen)](https://www.yourmarketresearchlink.com/)
+[![Content Marketing](https://img.shields.io/badge/Content%20Marketing-Proficient-brightgreen)](https://www.yourcontentmarketinglink.com/)
+[![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-Proficient-brightgreen)](https://www.yourdigitalmarketinglink.com/)
+[![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Expert-brightgreen)](https://www.yourdataanalyticslink.com/)
+[![Marketing Automation](https://img.shields.io/badge/Marketing%20Automation-Advanced-brightgreen)](https://www.yourmarketingautomationlink.com/)
+[![Brand Development](https://img.shields.io/badge/Brand%20Development-Advanced-brightgreen)](https://www.yourbranddevelopmentlink.com/)
+[![Lead Generation](https://img.shields.io/badge/Lead%20Generation-Proficient-brightgreen)](https://www.yourleadgenerationlink.com/)
+[![SQL](https://img.shields.io/badge/SQL-Proficient-brightgreen)](https://www.yoursqllink.com/)
+[![Python](https://img.shields.io/badge/Python-Proficient-brightgreen)](https://www.yourpythonlink.com/)
+[![Google Analytics](https://img.shields.io/badge/Google%20Analytics-Certified-brightgreen)](https://skillshop.credential.net/0fad1f9c-986a-4fed-90bb-cc47fd0810a5)
+[![Dataiku](https://img.shields.io/badge/Dataiku-Certified-brightgreen)](https://verify.skilljar.com/c/9cdddtevd5bo)
 
 ## 📊 Technical Proficiency
 
