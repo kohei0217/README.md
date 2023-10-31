@@ -1,18 +1,20 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Kohei 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/twitter/follow/yourtwitterhandle?label=Follow)](https://twitter.com/yourtwitterhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://www.yourportfolio.com)
 
-I'm a seasoned sales and marketing professional with 8 years of experience in the industry. My passion lies in creating and implementing effective strategies to drive revenue growth and enhance brand visibility. I specialize in leveraging my skills in SQL, Python, and Google Analytics to make data-driven decisions and optimize marketing campaigns.
+I'm a passionate and driven sales and marketing professional with 8 years of industry experience. I specialize in creating and implementing effective strategies to drive revenue growth and enhance brand visibility. Currently, I'm a dedicated MSc student in Europe, pursuing my postgraduate degree alongside my career.
 
 ## 🚀 About Me
 
 - 🔥 8+ years of experience in sales and marketing
-- 💼 Currently working as a Sales Manager at [Your Current Company]
+- 💼 worked as a Sales Manager at Recruit
 - 🎯 Specialize in B2B and B2C marketing strategies
 - 💡 Proven track record of increasing sales and ROI
 - 🌍 Passionate about global market trends and customer behavior
+- 📚 Pursuing MSc in IE master in science in Europe
+- 🎓 MBA degree holder, IE Business School
 
 ## 💼 Skills
 
@@ -47,4 +49,4 @@ Let's connect and discuss exciting opportunities:
 - Twitter: [Follow me](https://twitter.com/yourtwitterhandle)
 - Portfolio: [Visit my portfolio](https://www.yourportfolio.com)
 
-Looking forward to connecting with you and exploring new possibilities together! 💼
+I'm enthusiastic about both my academic and professional journey. Looking forward to connecting with you and exploring new possibilities together! 💼
